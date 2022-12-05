@@ -1,7 +1,7 @@
 ---
 title: "Regression analysis on the safe status of Toronto apartments"
-author: "Yichun Zhang,1006033187"
-subtitle: STA302 Final Project
+author: "Yichun Zhang"
+subtitle: A study of safety of Toronto's apartment using Linear Regresison models
 output:
   pdf_document: default
 ---
